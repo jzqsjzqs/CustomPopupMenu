@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- popupwindow的宽度，其值为自定义的popup layout的宽度-->
+    <dimen name="popup_width">160dp</dimen>
+    <!-- popupwindow y轴方向偏移量，其值大致等于所依附的view的高度-->
+    <dimen name="popupwindow_yoffset">-70dp</dimen>
+</resources>

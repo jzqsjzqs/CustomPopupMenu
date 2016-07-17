@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.okry.ppw"
+    android:versionCode="2"
+    android:versionName="1.0">
+
+    <application
+        android:allowBackup="true">
+
+    </application>
+
+</manifest>
